@@ -43,7 +43,7 @@ int main(){
 	delete w1;
 	return 0;
 }
-
+![Image description](example_of_resoult.png)
 
 result:
 
