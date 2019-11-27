@@ -7,7 +7,7 @@ The Shape class uses the Display class, from which the inheritance of classes su
 for display in descriptive and graphic form is inherited.
 
 GraphicalDisplay draws shapes using the parameters which are two vectors for the triangle and the parallelogram 
-and the radius for the circle
+and the radius for the circle.
 
 The project was created as credits for classes in Programming Methods.
 
@@ -15,4 +15,3 @@ The project was created as credits for classes in Programming Methods.
 example_of_resoult:
 
 ![Image description](https://github.com/Raval97/Example-of-polimorphism/blob/master/example_of_resoult.PNG?raw=true)
-
